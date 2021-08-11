@@ -1,1 +1,1 @@
-go build -buildmode=plugin main.go
+go build -buildmode=plugin authx.go
